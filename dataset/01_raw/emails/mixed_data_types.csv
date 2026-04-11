@@ -1,0 +1,9 @@
+column,numeric_count,non_numeric_count,sample_numeric,sample_non_numeric
+crm_contractor_engagement,1,102353,0,Yes
+crm_contractor_sentiment_score,71159,31195,50,Not Discussed
+crm_dts_or_ssip_mentioned,20,102334,20,No
+crm_customer_payment_intention,4,102350,20,No
+crm_agent_chase_count,111696,538,1,More than 5
+crm_membership_overdue,1,112233,0,Yes
+crm_auto_renewal_status,112185,49,0," rendering their current accreditation invalid."""
+crm_dissatisified_with_renewal_price,40,112194,0,No

@@ -1,0 +1,37 @@
+,Null Columns
+0,Co_Ref
+1,Churn_Category
+2,Complaint_Category
+3,Customer_Reaction_Category
+4,Agent_Renewal_Pitch_Category
+5,Customer_Renewal_Response_Category
+6,Agent_Response_Category
+7,Membership_Renewal_Decision
+8,Serious_Complaint
+9,Other_Complaint
+10,Discussion_on_Price_Increase
+11,Renewal_Impact_Due_to_Price_Increase
+12,Discount_or_Waiver_Requested
+13,Call_Reschedule_Request
+14,Agent_Flagged_Membership_Status_Alert
+15,Agent_Renewal_Initiation
+16,Explicit_Competitor_Mention
+17,Unnamed: 20
+18,Explicit_Switching_Intent
+19,Mentioned_Competitors
+20,Price_Switching_Mentioned
+21,Competitor_Value_Comparison
+22,Competitor_Benefits_Mentioned
+23,Topic_Introduced_By
+24,Percentage_Price_Increase_Mentioned
+25,Monetary_Price_Increase_Mentioned
+26,Price_Range_Mentioned
+27,Customer_Asked_For_Justification
+28,Customer_Response
+29,Desire_To_Cancel
+30,Discount_Offered
+31,Justification_Category
+32,Reason_For_Renewal_Category
+33,Agent_Response_To_Cancel_Category
+34,Argument_That_Convinced_Customer_to_Stay_Category
+35,Analysed_Call

@@ -1,0 +1,8 @@
+column,numeric_count,non_numeric_count,sample_numeric,sample_non_numeric
+cc_contractor_sentiment_start_score,32638,149,20,Neutral
+cc_contractor_sentiment_end_score,32639,148,30," which was caused by an expired SSIP provider claim."""
+cc_contractor_sentiment_overall_score,27896,4891,30,Not Discussed
+cc_contractor_sentiment_issues_score,11376,21411,20,Not Discussed
+cc_pricing_mentioned,40,32747,80,Yes
+cc_pricing_sentiment_impact,17,32770,80,Yes
+cc_refund_discussed,8,32779,80,No

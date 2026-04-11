@@ -1,0 +1,25 @@
+,Null Columns
+0,crm_accreditation_completed
+1,crm_timely_completion
+2,crm_progress_towards_accreditation
+3,crm_delays_in_accreditation
+4,crm_contractor_suggested_leave
+5,crm_contractor_engagement
+6,crm_contractor_sentiment
+7,crm_contractor_sentiment_score
+8,crm_dts_or_ssip_mentioned
+9,crm_customer_payment_intention
+10,crm_competitors_mentioned
+11,crm_membership_level
+12,crm_platform_issues_raised
+13,crm_agent_chased_contractor
+14,crm_agent_chase_count
+15,crm_accreditation_issues
+16,crm_membership_overdue
+17,crm_auto_renewal_status
+18,crm_dissatisified_with_renewal_price
+19,crm_customer_complained
+20,crm_refund_mentioned
+21,crm_negative_customer_experience
+22,crm_dissatisfaction_with_support
+23,crm_financial_hardship_mentioned

@@ -1,0 +1,4 @@
+column,numeric_count,non_numeric_count,sample_numeric,sample_non_numeric
+Connection_Group,68008,53948,1,4 to 9
+Tenure_Group,44737,76327,3,4+
+Anchor_Group,68008,53948,1,4 to 9
