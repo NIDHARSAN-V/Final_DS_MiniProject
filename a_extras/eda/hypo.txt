@@ -1,0 +1,5 @@
+
+1-----Connection_Net vs Last_Years_Price — derive price_increase_% and plot it; this is one of your strongest churn drivers
+
+
+
