@@ -1,0 +1,90 @@
+# ================================
+# NUMERICAL FEATURES CLASSIFICATION
+# ================================
+
+num_keep = [
+    'cc_contractor_sentiment_overall_score',
+    'Call_Year',
+    'Days_Before_Renewal',
+    'sentiment_change',
+    'negative_sentiment_flag'
+]
+
+num_optional = [
+    'cc_contractor_sentiment_start_score',
+    'cc_contractor_sentiment_end_score'
+]
+
+num_drop = [
+    'Contact_ID',
+    'Analysed_Call'
+]
+
+# ================================
+# CATEGORICAL FEATURES CLASSIFICATION
+# ================================
+
+cat_keep = [
+    'Direction',
+    'cc_care_package',
+    'cc_care_package_discussed',
+    'cc_call_initiated_by',
+    'cc_questionnaire_completion',
+    'cc_chasing_response',
+    'cc_issues_within_questionnaire',
+    'cc_contractor_sentiment',
+    'cc_contractor_sentiment_issues_score',
+    'days_bucket'
+]
+
+cat_optional = [
+    'cc_pricing_mentioned',
+    'cc_call_initiated_by'
+]
+
+cat_drop = [
+    'cc_questions_harder_than_expected',
+    'cc_refund_discussed',
+    'cc_dissatisfaction_support',
+    'cc_contractor_suggest_leave',
+    'cc_pricing_sentiment_impact',
+    'cc_business_struggles_financial_hardship',
+    'cc_dissatisfaction_time_to_complete',
+    'cc_agent_cross_sell_attempt',
+    'cc_login_issues',
+    'cc_platform_issues',
+    'cc_contractor_complained',
+    'cc_process_complexity_concerns',
+    'cc_customer_issues_concerns',
+    'cc_urgency_getting_on_site',
+    'cc_external_consultant',
+    'Contact_ID',
+    'Call_Date',
+    'Prospect_Renewal_Date',
+    'Co_Ref'
+]
+
+# ================================
+# SUMMARY PRINT
+# ================================
+
+print("=" * 50)
+print("NUMERICAL FEATURES")
+print("=" * 50)
+print(f"✅ KEEP ({len(num_keep)}): {num_keep}")
+print(f"🟡 OPTIONAL ({len(num_optional)}): {num_optional}")
+print(f"❌ DROP ({len(num_drop)}): {num_drop}")
+
+print("\n" + "=" * 50)
+print("CATEGORICAL FEATURES")
+print("=" * 50)
+print(f"✅ KEEP ({len(cat_keep)}): {cat_keep}")
+print(f"🟡 OPTIONAL ({len(cat_optional)}): {cat_optional}")
+print(f"❌ DROP ({len(cat_drop)}): {cat_drop}")
+
+print("\n" + "=" * 50)
+print("TOTAL FEATURES")
+print("=" * 50)
+print(f"Keep: {len(num_keep) + len(cat_keep)} features")
+print(f"Optional: {len(num_optional) + len(cat_optional)} features")
+print(f"Drop: {len(num_drop) + len(cat_drop)} features")

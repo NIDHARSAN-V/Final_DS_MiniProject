@@ -1,0 +1,84 @@
+num_keep = [
+    # scores (VERY STRONG)
+    'Sustainability_Score',
+    'Total_Renewal_Score_New',
+    'Auto_Renewal_Score',
+    'Anchoring_Score',
+    'Tenure_Scores',
+    'Renewal_Score_At_Release',
+
+    # tenure & behavior
+    'Tenure_Years',
+    'Payment_Timeframe',
+    '#_of_Connection',
+
+    # financial (main)
+    'Total_Net_Paid',
+    'Last_Years_Price',
+
+    # derived (VERY IMPORTANT)
+    'price_increase_pct',
+
+    # other
+    'PQQNet',
+    'Starting_PQQ_Net'
+]
+
+
+optional_num = [
+    'Current_Anchorings',   # slightly redundant
+    'Starting_Net'          # similar to Total_Net_Paid
+]
+
+
+num_drop = [
+    # duplicates (financial cluster)
+    'Starting_Vat',
+    'Starting_Gross',
+    'Starting_Membership_Net',
+    'Gross',
+    'Membership_Net',
+    'Total_Amount',
+    'Amount',
+
+    # duplicates (connection cluster)
+    'Proforma_Approved_Lists',
+    'Last_Connections',
+
+    # duplicate score
+    'Status_Scores',
+
+    # high missing / weak
+    'Last_Total_Net_Paid'
+]
+
+cat_keep = [
+    'Band',
+    'Connection_Group',
+    'Tenure_Group',
+    'Anchor_Group',
+    'Payment_Method',
+    'Current_Auto_Renewal_Flag',
+    'Proforma_Auto_Renewal',
+    'Proforma_World_Pay_Token',
+    'Proforma_Account_Stage',
+    'Proforma_Audit_Status',
+    'Proforma_Membership_Status',
+    'Current_World_Pay_Token',
+    'Prospect_Status'
+]
+
+cat_drop = [
+    'Co_Ref',                 # ID
+
+    # raw dates (already extracted features)
+    'Proforma_Date',
+    'Registration_Date',
+    'Prospect_Renewal_Date',
+    'Closed_Date',
+    'Last_Renewal',
+    'DateTime_Out',
+
+    # weak / high missing
+    'Last_Band'
+]
