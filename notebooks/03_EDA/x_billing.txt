@@ -82,3 +82,11 @@ cat_drop = [
     # weak / high missing
     'Last_Band'
 ]
+
+
+
+
+
+
+why dropped and  stayed : 
+https://chatgpt.com/s/t_69dc5f97352881918af4881f19527c3d
