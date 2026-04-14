@@ -1,66 +1,66 @@
 Feature,SHAP_Importance
-Status_Scores,1.9571539
-Total_Net_Paid,0.9551383
-Sustainability_Score,0.9291905
-Tenure_Years,0.5303092
-Payment_Timeframe,0.35270596
-Renewal_Score_At_Release,0.3321563
-Discount_Amount,0.3314809
-Current_World_Pay_Token,0.320109
-Band_Band B,0.3027666
-stage_high_risk_flag,0.23629636
-Anchoring_Score,0.19474174
-Auto_Renewal_Score,0.18476227
-stage_low_risk_flag,0.14783925
-Unnamed: 0,0.13619237
-Current_Anchorings,0.10319829
-Band_Band C1,0.08274489
-cancel_flag,0.0727141
-Tenure_Group_3,0.07265139
-Customer_Response_Risk_Low Risk,0.067145206
-Connection_Group_4-9,0.06225324
-Band_Band F1,0.061232112
-Tenure_Group_2,0.06019433
-Connection_Group_independent,0.045598436
-Tenure_Group_4+,0.04252469
-Band_Band D,0.04186154
-competitor_mentioned_flag,0.041802935
-Current_Auto_Renewal_Flag,0.039457068
-Connection_Group_Unknown,0.0375732
-Band_Band F,0.03690747
-Connection_Group_3,0.036091376
-Band_Band E,0.034226164
-Connection_Group_2,0.031861898
-Band_Band C2,0.028594114
-Competitor_Value_Comparison_renewal_not discussed,0.02175067
-Connection_Group_10+,0.019894842
-Anchor_Group_4-9,0.019561168
-Call_attend_status_renewal,0.018671602
-Band_Band G,0.013630753
-Band_Band F2,0.012898865
-Anchor_Group_independent,0.011278899
-Customer_Response_flag,0.010810534
-Customer_Response_Risk_Neutral,0.01064994
-Anchor_Group_3,0.0095397495
-Competitor_Value_Comparison_renewal_unknown,0.00820278
-Customer_Response_Risk_Medium Risk,0.007734362
-agent_complaint_flag,0.006061995
-Band_Band J,0.0059722466
-Band_Group,0.0052062618
-Anchor_Group_Unknown,0.0051440964
-Band_Band H,0.0047133747
-Anchor_Group_2,0.0043182797
-topic_customer_flag,0.004166478
-Explicit_Competitor_Mention_renewal,0.0036213235
-Price_Switching_Mentioned_renewal,0.0035859696
-Discount_Offered_flag,0.0034374513
-Tenure_Group_Unknown,0.0032028044
-Band_Band I,0.0019528337
-Call_Reschedule_Request_renewal,0.0018146846
-Anchor_Group_10+,0.00028027798
-Renewal_Impact_Due_to_Price_Increase_renewal,0.00013404869
-Band_Unknown,1.8424627e-05
+Status_Scores,1.9242835
+Total_Net_Paid,0.88942194
+Sustainability_Score,0.88700736
+Tenure_Years,0.502125
+Discount_Amount,0.34352037
+Payment_Timeframe,0.34057435
+Current_World_Pay_Token,0.2953349
+Band_Band B,0.24484769
+Renewal_Score_At_Release,0.24473494
+stage_high_risk_flag,0.21195623
+Auto_Renewal_Score,0.20179068
+Anchoring_Score,0.13324392
+stage_low_risk_flag,0.12704605
+Unnamed: 0,0.10860856
+Current_Anchorings,0.09340598
+Connection_Group_4-9,0.080145985
+cancel_flag,0.07110092
+Band_Band C1,0.06953283
+Customer_Response_Risk_Low Risk,0.05829408
+Tenure_Group_3,0.05751098
+Tenure_Group_2,0.05317508
+Band_Band F1,0.05259862
+Band_Band D,0.038594306
+Tenure_Group_4+,0.038028996
+Connection_Group_Unknown,0.037206206
+Current_Auto_Renewal_Flag,0.035387196
+Band_Band E,0.035170153
+Band_Band F,0.033215422
+Connection_Group_independent,0.02983589
+Connection_Group_3,0.028353594
+competitor_mentioned_flag,0.027943397
+Connection_Group_2,0.027828721
+Connection_Group_10+,0.021124905
+Anchor_Group_4-9,0.021024128
+Competitor_Value_Comparison_renewal_not discussed,0.02046037
+Band_Band C2,0.019414246
+Band_Band G,0.016297698
+Anchor_Group_independent,0.01629137
+Competitor_Value_Comparison_renewal_unknown,0.015243092
+Call_attend_status_renewal,0.014270816
+Band_Band F2,0.012900492
+Anchor_Group_3,0.011653524
+Customer_Response_Risk_Neutral,0.008199238
+Customer_Response_flag,0.007879217
+Customer_Response_Risk_Medium Risk,0.00654725
+Anchor_Group_10+,0.005281547
+agent_complaint_flag,0.005255993
+Band_Band H,0.00518296
+Band_Band J,0.004924319
+Band_Group,0.00434809
+Anchor_Group_Unknown,0.004262533
+Discount_Offered_flag,0.0036817647
+Price_Switching_Mentioned_renewal,0.0036280318
+Explicit_Competitor_Mention_renewal,0.0034176589
+topic_customer_flag,0.0032397532
+Tenure_Group_Unknown,0.0031457506
+Anchor_Group_2,0.0027201371
+Call_Reschedule_Request_renewal,0.0017475619
+Band_Band I,0.0011579433
+Band_Unknown,0.00016544582
+Renewal_Impact_Due_to_Price_Increase_renewal,0.0001374607
+Serious_Complaint_renewal,0.0
 Explicit_Switching_Intent_flag,0.0
 Competitor_Value_Comparison_renewal_similar value,0.0
-Serious_Complaint_renewal,0.0
 Proforma_Auto_Renewal,0.0
